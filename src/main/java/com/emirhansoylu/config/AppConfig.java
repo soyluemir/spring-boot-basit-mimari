@@ -1,4 +1,4 @@
-package com.enesbayram.config;
+package com.emirhansoylu.config;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.enesbayram.model.Employee;
+import com.emirhansoylu.model.Employee;
 
 @Configuration //configurasyon sınıfı olduğunu belirttik
 public class AppConfig {

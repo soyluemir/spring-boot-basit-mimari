@@ -1,13 +1,13 @@
-package com.enesbayram.services;
+package com.emirhansoylu.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.enesbayram.model.Employee;
-import com.enesbayram.model.UpdateEmployeeRequest;
-import com.enesbayram.repository.EmployeeRepository;
+import com.emirhansoylu.model.Employee;
+import com.emirhansoylu.model.UpdateEmployeeRequest;
+import com.emirhansoylu.repository.EmployeeRepository;
 
 @Service
 public class EmployeeService {

@@ -1,4 +1,4 @@
-package com.enesbayram.model;
+package com.emirhansoylu.model;
 
 import lombok.Getter;
 import lombok.Setter;

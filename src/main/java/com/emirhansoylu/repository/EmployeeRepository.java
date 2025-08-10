@@ -1,13 +1,14 @@
-package com.enesbayram.repository;
+package com.emirhansoylu.repository;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import com.enesbayram.config.AppConfig;
-import com.enesbayram.model.Employee;
-import com.enesbayram.model.UpdateEmployeeRequest;
+
+import com.emirhansoylu.config.AppConfig;
+import com.emirhansoylu.model.Employee;
+import com.emirhansoylu.model.UpdateEmployeeRequest;
 
 @Repository // veritabanıyla iletişime geçen katman
 public class EmployeeRepository {

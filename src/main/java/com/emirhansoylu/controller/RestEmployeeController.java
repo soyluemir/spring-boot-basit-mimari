@@ -1,4 +1,4 @@
-package com.enesbayram.controller;
+package com.emirhansoylu.controller;
 
 import java.util.List;
 
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.enesbayram.model.Employee;
-import com.enesbayram.model.UpdateEmployeeRequest;
-import com.enesbayram.services.EmployeeService;
+import com.emirhansoylu.model.Employee;
+import com.emirhansoylu.model.UpdateEmployeeRequest;
+import com.emirhansoylu.services.EmployeeService;
 
 @RestController
 @RequestMapping("/rest/api/employee") // kök adres tanımlaması yapıyoruz.
