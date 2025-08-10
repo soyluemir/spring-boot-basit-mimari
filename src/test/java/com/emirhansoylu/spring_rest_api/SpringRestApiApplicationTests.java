@@ -1,4 +1,4 @@
-package com.enesbayram.spring_rest_api;
+package com.emirhansoylu.spring_rest_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
